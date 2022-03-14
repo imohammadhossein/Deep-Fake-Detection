@@ -8,3 +8,4 @@ this implementation was among the top ranks in the challenge. the whole process 
 2- set dataloader
 3- set the network
 4- train the model
+5- set testing situation
