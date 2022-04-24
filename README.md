@@ -1,4 +1,6 @@
-![kaggle logo](images/index.jpeg)
+<div align="center">
+    <img src="/images/index.jpeg" width="800">
+</div>
 
 **Kaggle Deep Fake Detection Challenge**
 
