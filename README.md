@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/images/index.jpeg" width="800">
+    <img src="/images/index.jpg" width="200">
 </div>
 
 **Kaggle Deep Fake Detection Challenge**
