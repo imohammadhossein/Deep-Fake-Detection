@@ -2,7 +2,7 @@
     <img src="/images/index.jpg" width="200">
 </div>
 
-<h1 align="center">**Kaggle Deep Fake Detection Challenge**</h1>
+<h1 align="center">Kaggle Deep Fake Detection Challenge</h1>
 
 
 These codes have implemented for  **[Kaggle Deep Fake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge "Kaggle Deep Fake Detection Challenge").** 
