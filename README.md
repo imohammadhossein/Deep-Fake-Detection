@@ -6,7 +6,7 @@
 
 
 These codes have implemented for  **[Kaggle Deep Fake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge "Kaggle Deep Fake Detection Challenge").** 
-You can Download the cropped and generated dataset here.
+The sequential procedure are listed down here.
 
 this implementation was among the top ranks in the challenge. the whole process contains four steps: \
 1- crop faces  \
