@@ -5,7 +5,7 @@
 <h1 align="center">Kaggle Deep Fake Detection Challenge</h1>
 
 
-These codes have implemented for  **[Kaggle Deep Fake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge "Kaggle Deep Fake Detection Challenge").** 
+These codes have implemented for  **[Kaggle Deep Fake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge "Kaggle Deep Fake Detection Challenge").**  There are two main idea behind the story, one is:
 The sequential procedure are listed down here.
 
 this implementation was among the top ranks in the challenge. the whole process contains four steps: \
