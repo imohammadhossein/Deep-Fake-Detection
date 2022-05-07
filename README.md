@@ -9,8 +9,8 @@ These codes have implemented for  **[Kaggle Deep Fake Detection Challenge](https
 The sequential procedure are listed down here.
 this implementation was among the top ranks in the challenge. the rationale behind the scripts follows two main branches: 
 
-1- <span style="text-decoration:underline">**CNN Based Algorithms**</span> \
-**2- RNN Based Algorithms**
+1- **CNN Based Algorithms** \
+2- **RNN Based Algorithms**
 
 
 1- [Crop Faces](https://github.com/imohammadhossein/Deep-Fake-Detection/blob/develop/face_extractor.ipynb "face extractor mtcnn")  \
