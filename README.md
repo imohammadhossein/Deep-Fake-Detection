@@ -10,6 +10,7 @@ The sequential procedure is respected inside codes.
 this implementation was among the top ranks in the challenge. 
 
 
-[**Crop Faces**](https://github.com/imohammadhossein/Deep-Fake-Detection/blob/develop/face_extractor.ipynb "face extractor mtcnn") helps to save the videos into sequential frames with your desired interval. the rationale behind the scripts follows two main branches: \
+[**Crop Faces**](https://github.com/imohammadhossein/Deep-Fake-Detection/blob/develop/face_extractor.ipynb "face extractor mtcnn") helps to save the videos into sequential frames with your desired interval. the rationale behind the scripts follows two main branches: 
+
 1- **CNN Based Algorithms** \
 2- **RNN Based Algorithms**
