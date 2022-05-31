@@ -14,7 +14,7 @@ this implementation was among the top ranks in the challenge.
 
 * **CNN Based Algorithms** 
 > In this approach by inspiring from the strnegth of deep neural networks, we attempted to figure out the structure and texture of Deep-fake videos using convolutional layers. 
-> There are some [**CNN-Based networks**](https://github.com/imohammadhossein/Deep-Fake-Detection/blob/develop/src/CNNs/ "CNN-Based approachs"), (EfficientNet ResNet, VGG, ...), each with different results.
+> There are some [**CNN-based networks**](https://github.com/imohammadhossein/Deep-Fake-Detection/blob/develop/src/CNNs/ "CNN-Based approachs"), (EfficientNet ResNet, VGG, ...), each with different results.
 > 
 > 
 * **RNN Based Algorithms**
