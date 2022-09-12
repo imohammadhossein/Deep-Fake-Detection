@@ -21,8 +21,6 @@ this implementation was among the top ranks in the challenge.
 > [**RNN-based networks**](https://github.com/imohammadhossein/Deep-Fake-Detection/blob/develop/src/Recurrents/ "RNN-Based approach") utilizes the vital features hidden in sequences of frames in a fake video and recognizing it after passing the output of CNN layers towards LSTM layers. This approach has got much better result.
 
 ## Feedback
-
--------------------
 If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhnikimaleki/)
